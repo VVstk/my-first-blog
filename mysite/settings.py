@@ -8,7 +8,8 @@ SECRET_KEY = 'g#3sdfnk-xeen5#=hp7pzgjw*lcg2yj=pj4@=%ko38dg7*&376'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vvstk.pythonanywhere.com']
+
 
 
 # Application definition
